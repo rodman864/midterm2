@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/bin/Debug/netcoreapp3.1/MckinneyDiner.deps.json
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/bin/Debug/netcoreapp3.1/MckinneyDiner.runtimeconfig.json
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/bin/Debug/netcoreapp3.1/MckinneyDiner.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/bin/Debug/netcoreapp3.1/MckinneyDiner.dll
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/bin/Debug/netcoreapp3.1/MckinneyDiner.pdb
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/obj/Debug/netcoreapp3.1/MckinneyDiner.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/obj/Debug/netcoreapp3.1/MckinneyDiner.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/obj/Debug/netcoreapp3.1/MckinneyDiner.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/obj/Debug/netcoreapp3.1/MckinneyDiner.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/obj/Debug/netcoreapp3.1/MckinneyDiner.dll
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/obj/Debug/netcoreapp3.1/MckinneyDiner.pdb
+/Users/antonio/Desktop/CS133/MckinneyDiner/MckinneyDiner/obj/Debug/netcoreapp3.1/MckinneyDiner.genruntimeconfig.cache
